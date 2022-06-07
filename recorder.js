@@ -352,7 +352,7 @@
   /*! no static exports found */
   /***/ (function(module, exports) {
   
-  eval("// Module\nvar code = \"<li class=\\\"toolbar_lists\\\" >                 \\n   <div class=\\\" botpath-step {{icon}}\\\" name={{title}} id=\\\"botpath-{{title}}\\\" title=\\\"{{title}}\\\"></div>\\n   <div class=\\\"toolbar_dropdown_content botpath-hidden\\\" id=\\\"botpath-submenu-{{title}}\\\"> \\n   </div>                  \\n</li>\";\n// Exports\nmodule.exports = code;\n\n//# sourceURL=webpack:///./recorder/html/toolbar/toolbar_step_template.html?");
+  eval("// Module\nvar code = \"<li class=\\\"toolbar_lists\\\" >                 \\n   <div class=\\\" botpath-step {{icon}}\\\" name={{title}} id=\\\"botpath-{{title}}\\\" title=\\\"{{title}}bhbh\\\"></div>\\n   <div class=\\\"toolbar_dropdown_content botpath-hidden\\\" id=\\\"botpath-submenu-{{title}}\\\"> \\n   </div>                  \\n</li>\";\n// Exports\nmodule.exports = code;\n\n//# sourceURL=webpack:///./recorder/html/toolbar/toolbar_step_template.html?");
   
   /***/ }),
   
